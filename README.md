@@ -63,6 +63,8 @@ This command will use 8 threads and extract the file using the RAM disk.
 
 This project is licensed under the MIT License. See the LICENSE file for more details.
 
+---
+
 ### README (中文版本)
 
 # ZipTurbo
