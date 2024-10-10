@@ -39,7 +39,7 @@ ZipTurbo is a powerful ZIP extraction tool that supports multi-threaded parallel
 ### Usage
 
 ```bash
-./ZipTurbo.sh [--num_proc N] [--use_ram] yourfile.zip
+./ZipTurbo-en.sh [--num_proc N] [--use_ram] yourfile.zip
 ```
 
 - `--num_proc N`: Specify the number of parallel threads, default is the number of CPU cores.
